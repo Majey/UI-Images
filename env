@@ -1,4 +1,1 @@
-MONGO_URL=mongodb+srv://kevinerick78:kevinerick78@cluster0.5q84i.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-PASS_SEC=Jabulani
-JWT_SEC=Jabulani
-STRIPE_KEY=sk_test_51KHsWgJWy9HSZgUzxdQJSU2JwE7798ZD2e7aHJsENzFMg5UpTuiMYGyHY25vG00nD8SoSHGTLYKqmVNA7kls8K2400ue83ATZg
+
